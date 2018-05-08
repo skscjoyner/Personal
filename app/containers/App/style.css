@@ -1,0 +1,8 @@
+/* App Styles */
+
+.container {
+  display:flex;
+  flex-direction:column;
+  min-height:100vh;
+  background-color: rgb(154, 195, 243);
+}

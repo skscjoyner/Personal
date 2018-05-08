@@ -1,0 +1,15 @@
+/* Home Styles */
+
+.container {
+  display:flex;
+  flex-direction:column;
+  min-height:100vh;
+}
+
+p {
+  font-size: 150%;
+}
+
+.intro {
+  background-color: rgb(154, 195, 243);
+}
